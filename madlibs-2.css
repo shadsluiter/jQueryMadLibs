@@ -1,0 +1,18 @@
+body {
+	font-family: sans-serif;
+
+}
+
+span {
+	font-weight: bold;
+}
+
+button {
+	background: #AAA;
+	font-size: 2em;
+	border-radius: 5px;
+}
+
+#theStory {
+	display: none;
+}

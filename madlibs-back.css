@@ -1,0 +1,21 @@
+body {
+	font-family: sans-serif;
+	margin:1em;
+
+}
+
+span {
+	font-weight: bold;
+}
+
+#theStory {
+	display: none;
+}
+
+button {
+	background-color: #ccc;
+	font-size: 1.2em;
+	border-radius: 0.2em;
+	padding: 0.5em;
+	margin:1em;
+}
